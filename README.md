@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **flutter**
+- 🔭 I’m currently working on **flutter** mobile app
 - 🌱 I’m currently learning **flutter**
 - 🤔 I’m looking for help with **flutter**
 - 💬 Don't ask me about **flutter**
