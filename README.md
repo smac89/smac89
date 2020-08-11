@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **flutter**
+- 🌱 I’m currently learning **flutter**
+- 🤔 I’m looking for help with **flutter**
+- 💬 Don't ask me about **flutter**
+
 <!--
 **smac89/smac89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
