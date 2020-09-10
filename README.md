@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **flutter** mobile app
-- 🌱 I’m currently learning **flutter**
-- 🤔 I’m looking for help with **flutter**
-- <s>💬 Don't </s>Ask me about **flutter**
+- 🤔 Looking for ways to make Linux a better OS in terms of UX on the desktop. Any ideas?
 
 <!--
 **smac89/smac89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
