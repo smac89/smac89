@@ -1,8 +1,8 @@
-### Hi there 👋
+= Hi there 👋
+:icons: font
 
-- 🔭 I’m currently working on **flutter** mobile app
-- 🤔 Looking for ways to make Linux a better OS in terms of UX on the desktop. Any ideas?
-
+* ⚡ This is **a doc**ument version {asciidoctor-version}
+++++
 <!--
 **smac89/smac89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+++++
